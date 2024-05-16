@@ -8,4 +8,5 @@
 - __[Requests](https://www.google.com/search?q=python+requests)__
 
 ## General workflow of this Project:
+![pulse](https://github.com/DHUWARAGANATH/Phonepe_pulse_visualization/assets/153058448/aabb9c5c-7e7b-4102-a704-cf6f1d0d8ec6)
 

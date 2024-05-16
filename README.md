@@ -6,3 +6,6 @@
 - __[Streamlit](https://www.google.com/search?q=python+streamlit)__
 - __[Plotly](https://www.google.com/search?q=python+plotly)__
 - __[Requests](https://www.google.com/search?q=python+requests)__
+
+## General workflow of this Project:
+

@@ -11,4 +11,7 @@
 ![pulse](https://github.com/DHUWARAGANATH/Phonepe_pulse_visualization/assets/153058448/aabb9c5c-7e7b-4102-a704-cf6f1d0d8ec6)
 
 ## Dashboard Preview
-https://github.com/DHUWARAGANATH/Phonepe_pulse_visualization/assets/153058448/c27518fe-42b9-4af5-8f8a-bd6fc1b8c4cf" alt="Dashboard Preview
+
+<p align="center">
+  <img src="https://github.com/DHUWARAGANATH/Phonepe_pulse_visualization/assets/153058448/c27518fe-42b9-4af5-8f8a-bd6fc1b8c4cf" alt="Dashboard Preview">
+</p>

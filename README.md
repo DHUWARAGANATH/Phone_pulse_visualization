@@ -13,3 +13,30 @@
 ## Dashboard Preview
 https://github.com/DHUWARAGANATH/Phonepe_pulse_visualization/assets/153058448/7dfc10eb-1a8c-407e-b16f-1a35d5fc59f1
 
+## Features
+
+- Interactive charts and graphs
+- Yearly, quarterly, and monthly transaction views
+- State and district-wise data breakdown
+- User-friendly interface
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/DHUWARAGANATH/Phonepe_pulse_visualization.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd Phonepe_pulse_visualization
+    ```
+3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. Run the application:
+    ```bash
+    streamlit run app.py
+    ```

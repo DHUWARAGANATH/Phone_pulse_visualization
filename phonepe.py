@@ -5,7 +5,7 @@ import plotly.express as px
 import json
 import requests
 
-myconnection=pymysql.connect(host="127.0.0.1",user="root",password="Datascience@2871",database="phonepe")
+myconnection=pymysql.connect(host="*********",user="root",password="***********",database="phonepe")
 cur=myconnection.cursor()
 
 #Aggregated_transaction
